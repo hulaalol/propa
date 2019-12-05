@@ -1,0 +1,12 @@
+[Header],First
+START,{,d,g,b,i,h,f,epsilon,}
+A,{,d,g,i,f,h,epsilon,}
+B,{,d,i,g,f,h,epsilon,}
+C,{,g,i,h,epsilon,}
+D,{,i,epsilon,}
+[header],Follow
+START,{,EOF,}
+A,{,g,i,h,d,f,EOF,}
+B,{,EOF,g,i,h,d,f,}
+C,{,d,i,g,f,h,b,EOF,}
+D,{,EOF,d,g,i,f,h,b,}

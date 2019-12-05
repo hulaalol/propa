@@ -1,0 +1,8 @@
+[Header],First
+C,{,c,d,epsilon,}
+B,{,b,c,d,epsilon,}
+S,{,a,b,c,d,epsilon,}
+[header],Follow
+C,{,f,g,c,d,e,EOF,}
+B,{,c,d,e,EOF,f,}
+S,{,EOF,e,}

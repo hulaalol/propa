@@ -1,0 +1,18 @@
+{
+  "code3.1": {
+    "static": [
+      2
+    ],
+    "dynamic": [
+      1
+    ]
+  },
+  "code3.2": {
+    "static": [
+      2
+    ],
+    "dynamic": [
+      0
+    ]
+  }
+}

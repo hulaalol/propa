@@ -1,0 +1,235 @@
+{
+    "id": "start",
+    "children": [
+        {
+            "id": "command",
+            "children": [
+                {
+                    "id": "program",
+                    "children": [
+                        {
+                            "id": "comparison",
+                            "children": [
+                                {
+                                    "id": "diff",
+                                    "children": []
+                                },
+                                {
+                                    "id": "filename",
+                                    "children": [
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "o",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "l",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "d",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "f",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "i",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "l",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "e",
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": ".txt ",
+                                    "children": []
+                                },
+                                {
+                                    "id": "filename",
+                                    "children": [
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "n",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "e",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "w",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "f",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "i",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "l",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "e",
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": ".txt",
+                                    "children": []
+                                },
+                                {
+                                    "id": ">",
+                                    "children": []
+                                },
+                                {
+                                    "id": "filename",
+                                    "children": [
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "o",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "u",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "t",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "p",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "u",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "t",
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": ".txt",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

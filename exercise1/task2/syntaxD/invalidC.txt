@@ -1,0 +1,3 @@
+file:\test.txt
+12:\number.mat
+A:\caseSensitive.LOL

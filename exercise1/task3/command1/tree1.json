@@ -1,0 +1,141 @@
+{
+    "id": "start",
+    "children": [
+        {
+            "id": "command",
+            "children": [
+                {
+                    "id": "program",
+                    "children": [
+                        {
+                            "id": "convert",
+                            "children": [
+                                {
+                                    "id": "convert",
+                                    "children": []
+                                },
+                                {
+                                    "id": "argument",
+                                    "children": [
+                                        {
+                                            "id": "-RAWtoPNG",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "filename",
+                                    "children": [
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "n",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "e",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "w",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "c",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "a",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "r",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "digit",
+                                            "children": [
+                                                {
+                                                    "id": "2",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "digit",
+                                            "children": [
+                                                {
+                                                    "id": "0",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "digit",
+                                            "children": [
+                                                {
+                                                    "id": "1",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "digit",
+                                            "children": [
+                                                {
+                                                    "id": "9",
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": ".",
+                                    "children": []
+                                },
+                                {
+                                    "id": "extension",
+                                    "children": [
+                                        {
+                                            "id": "raw",
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

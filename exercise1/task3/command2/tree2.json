@@ -1,0 +1,127 @@
+{
+    "id": "start",
+    "children": [
+        {
+            "id": "command",
+            "children": [
+                {
+                    "id": "program",
+                    "children": [
+                        {
+                            "id": "run",
+                            "children": [
+                                {
+                                    "id": "python",
+                                    "children": []
+                                },
+                                {
+                                    "id": "filename",
+                                    "children": [
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "h",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "e",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "l",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "l",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "o",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "w",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "o",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "r",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "l",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "letter",
+                                            "children": [
+                                                {
+                                                    "id": "d",
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": ".",
+                                    "children": []
+                                },
+                                {
+                                    "id": "py",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

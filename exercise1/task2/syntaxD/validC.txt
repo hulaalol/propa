@@ -1,0 +1,3 @@
+c:\java\javac.exe
+d:\test\text.txt
+a:\test.txt
