@@ -1,0 +1,19 @@
+{
+    "expression": "true && false",
+    "type": "Bool",
+    "rule": "T-And",
+    "hypotheses": [
+        {
+            "expression": "true",
+            "type": "Bool",
+            "rule": "T-True",
+            "hypotheses": []
+        },
+        {
+            "expression": "false",
+            "type": "Bool",
+            "rule": "T-False",
+            "hypotheses": []
+        }
+    ]
+}

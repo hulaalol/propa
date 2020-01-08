@@ -1,0 +1,8 @@
+code snippet, nominal typing, structural typing
+example, valid, valid
+1, valid , valid
+2, invalid, invalid
+3, invalid, valid
+4, valid, valid
+5, invalid, invalid
+6, invalid , valid
