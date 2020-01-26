@@ -1,0 +1,25 @@
+{
+    "expression": "if true then true else 1",
+    "type": "Bool",
+    "rule": "T-If",
+    "hypotheses": [
+        {
+            "expression": "true",
+            "type": "Bool",
+            "rule": "T-True",
+            "hypotheses": []
+        },
+        {
+            "expression": "true",
+            "type": "Bool",
+            "rule": "T-True",
+            "hypotheses": []
+        },
+        {
+            "expression": "1",
+            "type": "Bool",
+            "rule": "invalid",
+            "hypotheses": []
+        }
+    ]
+}

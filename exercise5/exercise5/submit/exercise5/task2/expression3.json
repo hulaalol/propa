@@ -1,0 +1,47 @@
+{
+    "expression": "(true = false) && (1=2)",
+    "type": "Bool",
+    "rule": "T-And",
+    "hypotheses": [
+        {
+            "expression": "(true = false)",
+            "type": "Bool",
+            "rule": "T-Eq",
+            "hypotheses": [
+                {
+                    "expression": "true",
+                    "type": "Bool",
+                    "rule": "T-True",
+                    "hypotheses": []
+                },
+                {
+                    "expression": "false",
+                    "type": "Bool",
+                    "rule": "T-False",
+                    "hypotheses": []
+                }
+            ]
+        },
+        {
+            "expression": "(1=2)",
+            "type": "Bool",
+            "rule": "T-Eq",
+            "hypotheses": [
+                {
+                    "expression": "1",
+                    "type": "Nat",
+                    "rule": "T-Nat",
+                    "hypotheses": []
+                },
+                {
+                    "expression": "2",
+                    "type": "Bool",
+                    "rule": "T-Nat",
+                    "hypotheses": []
+                }
+
+
+            ]
+        }
+    ]
+}
